@@ -14,7 +14,7 @@
 
 /* class="hope-ui-light" */
 .hope-ui-light {
-    background-image: url(https://www.bing.com/th?id=OHR.ShanghaiBlossoms_ZH-CN5594677517_1920x1080.jpg); /* url(../bing/desktop_FHD.jpg) */
+    background-image: url(https://www.bing.com/th?id=OHR.SouthStackLight_ZH-CN5932471774_1920x1080.jpg); /* url(../bing/desktop_FHD.jpg) */
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
@@ -24,7 +24,7 @@
 
 @media screen and (max-width:960px) {
     .hope-ui-light {
-        background-image: url(https://www.bing.com/th?id=OHR.ShanghaiBlossoms_ZH-CN5594677517_1080x1920.jpg); /* url(../bing/mobile_FHD.jpg) */
+        background-image: url(https://www.bing.com/th?id=OHR.SouthStackLight_ZH-CN5932471774_1080x1920.jpg); /* url(../bing/mobile_FHD.jpg) */
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
