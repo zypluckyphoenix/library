@@ -1,0 +1,27 @@
+/* @import "/css/wallpaper.css"; */
+/* 背景图片:
+    必应：https://bing.img.run/uhd.php; https://wall.youtd.cc/bing.php
+    樱花：https://www.dmoe.cc
+    夏沫：https://cdn.seovx.com
+    搏天：https://api.btstu.cn/doc/sjbz.php
+    姬长信：https://github.com/insoxin/API
+    小歪：https://www.ixiaowai.cn/#works
+    保罗：https://api.paugram.com
+    墨天逸：https://api.mtyqx.cn
+    岁月小筑：https://img.xjh.me
+    东方Project：https://img.paulzzh.com
+*/
+
+/* class="hope-ui-light" */
+.hope-ui-light {
+    background-image: url(http://bing.luckyphoenix.eu.org/FHD.jpg); /* url(../bing/desktop_FHD.jpg) */
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #fff !important;
+}
+
+.hope-ui-dark {
+    background-color: #555555 !important;
+}
