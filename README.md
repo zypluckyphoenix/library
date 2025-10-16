@@ -1,5 +1,5 @@
 ***Bing Wallpaper***  
-**2025年10月16日 00:00:00 UTC+0800**  
-*[幽灵之猫,欧亚猞猁,西伯利亚(©Mario Plechaty Photograph/Shutterstock)](https://www.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg)*  
-![](https://www.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg)  
-![](https://www.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_1080x1920.jpg)
+**2025年10月17日 00:00:00 UTC+0800**  
+*[爱上密歇根,罗克河瀑布,上半岛,密歇根州,美国(©Matt Anderson Photography/Getty Images)](https://www.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg)*  
+![](https://www.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg)  
+![](https://www.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_1080x1920.jpg)
