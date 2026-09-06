@@ -1,0 +1,225 @@
+@import url("./colorful.css");/*渐变*/
+@import url("./alist_wallpaper.css");/*背景*/
+/*@import url("./font-awesome.css");font-awesome*/
+@import url("./lxgw-style.css");/*LGXWWenKai Font v1.7.0*/
+/* https://npm.elemecdn.com/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css */
+/* reference: https://github.com/anosu/alist-style/blob/main/moe/style-v3.css */
+/* reference: https://github.com/kasuie/alist-customize/blob/main/v3/css/index.css */
+/* cdn mirror: https://lainbo.dev/mainland-china-cdn, https://www.v2ex.com/t/1056428 */
+/* https://sf.akass.cn/font-awesome/7.0.1/css/all.min.css */
+/* https://lib.baomitu.com/font-awesome/7.0.1/css/all.min.css */
+/* https://s4.zstatic.net/ajax/libs/font-awesome/7.0.1/css/all.min.css */
+/* https://use.sevencdn.com/ajax/libs/font-awesome/7.0.1/css/all.min.css */
+/* https://cdnjs.webstatic.cn/ajax/libs/font-awesome/7.0.1/css/all.min.css */
+/* https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css */
+/* https://mirrors.sustech.edu.cn/help/cdnjs.html => https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/font-awesome/7.0.1/css/all.min.css */
+/* 注意font-awesome优先级必须高于其他字体样式,否则被其他字体样式覆盖(!important)时无法生效,例如: * { font-family: LXGW WenKai !important; } */
+
+/*全局字体*/
+* {
+  font-family: "LXGW WenKai", math, "楷体", "Trebuchet MS", "Times New Roman";
+  font-weight: bold;
+}
+
+body {
+  font-family: "LXGW WenKai", math, "楷体", "Trebuchet MS", "Times New Roman";
+}
+
+pre,
+code {
+  font-family: "LXGW WenKai Mono", math, "楷体", "Trebuchet MS", "Times New Roman";
+}
+
+/* * {
+  padding: 0;
+  margin: 0;
+  font-family: math, "楷体", "Trebuchet MS", "Times New Roman";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  outline: none !important
+} */
+
+/*最小化高度*/
+.body {
+  min-height: 0% !important;
+}
+
+/*文本居中*/
+.hope-select__value,
+.hope-modal__header {
+  text-align: center !important;
+}
+
+/*图标 颜色*/
+button>svg,
+a>svg.hope-icon,
+div>svg.hope-icon {
+  color: rgb(24, 144, 255) !important;
+}
+
+.header/*顶部*/,
+.nav.hope-breadcrumb/*导航条*/,
+.nav.hope-breadcrumb::after/*导航条*/ {
+  border-radius: var(--hope-radii-xl) !important;/*边框半径*/
+  background: rgba(255, 255, 255, 0) !important;/*无色透明*/
+}
+
+/*白天模式 透明*/
+.hope-ui-light .obj-box/*主目录*/,
+.hope-ui-light .nav.hope-breadcrumb/*导航栏*/,
+.hope-c-PJLV.hope-c-PJLV-ikSuVsl-css/*readme*/,
+.hope-ui-light .hope-c-PJLV-ihVEsOa-css/*返回顶部*/,
+.hope-ui-light .left-toolbar/*工具栏 扩展*/,
+.hope-ui-light .header-right div/*右上角搜索快捷键*/,
+.hope-ui-light .left-toolbar-box .svg/*工具栏 收缩*/,
+.hope-ui-light .hope-c-PJLV-ieGWMbI-css/*左侧侧边栏目录*/,
+.hope-ui-light .header-right button.hope-menu__trigger/*右上角视图切换按钮*/ {
+  background-color: rgba(255, 255, 255, 0.5) !important/* rgba(24, 144, 255, 0.15) */;
+}
+/*夜间模式 透明*/
+.hope-ui-dark .obj-box/*主目录*/,
+.hope-ui-dark .nav.hope-breadcrumb/*导航栏*/,
+.hope-c-PJLV.hope-c-PJLV-iiuDLME-css/*readme*/,
+.hope-ui-dark .hope-c-PJLV-ihVEsOa-css/*返回顶部*/,
+.hope-ui-dark .left-toolbar/*工具栏 扩展*/,
+.hope-ui-dark .header-right div/*右上角搜索快捷键*/,
+.hope-ui-dark .left-toolbar-box .svg/*工具栏 收缩*/,
+.hope-ui-dark .hope-c-PJLV-ieGWMbI-css/*左侧侧边栏目录*/,
+.hope-ui-dark .header-right button.hope-menu__trigger/*右上角视图切换按钮*/ {
+  background-color: #202425 !important/* rgb(0 0 0 / 50%) */;
+}
+
+/*搜索快捷键 居中*/
+.header-right div {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  justify-content: center/* 在主轴上居中 */;
+  align-items: center/* 在交叉轴上居中 */;
+}
+/*搜索快捷键 隐藏CTRL+K*/
+.header-right div div {
+  display: none !important;
+}
+
+/*白天模式 搜索主体+毛玻璃*/
+.hope-ui-light .hope-modal__content {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  backdrop-filter: blur(5px) !important;
+}
+/*夜间模式 搜索主体+毛玻璃*/
+.hope-ui-dark .hope-modal__content {
+  background-color: rgb(0 0 0 / 10%) !important;
+  backdrop-filter: blur(5px) !important;
+}
+
+/*白天模式 搜索按钮+毛玻璃*/
+/* .hope-ui-light .hope-modal__body button {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  backdrop-filter: blur(5px) !important;
+  padding: var(--hope-space-1) !important;
+} */
+/*夜间模式 搜索按钮+毛玻璃*/
+/* .hope-ui-dark .hope-modal__body button {
+  background-color: rgb(0 0 0 / 10%) !important;
+  backdrop-filter: blur(5px) !important;
+  padding: var(--hope-space-1) !important;
+} */
+
+/*鼠标悬浮 颜色*/
+.left-toolbar-box svg:hover,
+.header-right div:hover,
+.header-right div:hover svg,
+.header-right div:hover,
+.header-right div:hover svg ,
+.header-right button.hope-menu__trigger:hover,
+.header-right button.hope-menu__trigger:hover svg{
+  color: white !important;
+  background-color: #1890ff !important;
+}
+
+/*底部 隐藏*/
+.footer {
+  display: none !important;
+}
+
+#footer {
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+/* <!--音乐播放器所用的文件-->
+<!-- require APlayer -->
+<link rel="stylesheet" href="https://npm.elemecdn.com/aplayer@1.10.1/dist/APlayer.min.css">
+<script src="https://npm.elemecdn.com/aplayer@1.10.1/dist/APlayer.min.js"></script>
+<!-- require MetingJS -->
+<script src="https://npm.elemecdn.com/meting2@0.0.1/js/Meting.min.js"></script>
+<!-- 自行配置音乐选项 auto 内容 -->
+<meting-js fixed="true" autoplay="false" theme="#409EFF" list-folded="true" auto="https://y.qq.com/n/ryqq/playlist/766443746.html"></meting-js> */
+.aplayer,.aplayer-body,
+.aplayer-list ol::-webkit-scrollbar-track {
+  /* backdrop-filter: blur(10px) !important; */
+  background: rgba(255, 255, 255, 0) !important;/*无色透明*/
+}
+.hope-ui-light .aplayer-list,
+.hope-ui-light .aplayer-pic,
+.hope-ui-light .aplayer-info,
+.hope-ui-light .aplayer-notice,
+.hope-ui-light .aplayer-miniswitcher {
+  border: none !important;
+  border-top-width: 0px !important;
+  border-radius: 2px 2px 2px 2px !important;
+  background-color: rgba(255, 255, 255, 0.5) !important;
+}
+/* 当前播放歌曲 白天模式 */
+.hope-ui-light .aplayer-list-light {
+  background-color: #edf0f3 !important;
+}
+.hope-ui-dark .aplayer-list,
+.hope-ui-dark .aplayer-pic,
+.hope-ui-dark .aplayer-info,
+.hope-ui-dark .aplayer-notice,
+.hope-ui-dark .aplayer-miniswitcher {
+  border: none !important;
+  border-radius: 2px 2px 2px 2px !important;
+  background-color: #202425 !important;
+}
+/* 当前播放歌曲 夜间模式 */
+.hope-ui-dark .aplayer-list-light {
+  background-color: #999 !important;
+}
+.aplayer-time-inner {
+  color: #666 !important;
+}
+.aplayer-play,
+.aplayer-pause {
+  border-color: rgb(24, 144, 255) !important;
+}
+.aplayer-icon path,
+.aplayer-button path {
+  fill: rgb(24, 144, 255) !important;
+}
+.aplayer-icon:hover path {
+  fill: rgba(24, 200, 255) !important;
+}
+/* 播放列表 */
+.aplayer-list ol li {
+  border-top-width: 0px !important;
+}
+.aplayer-list ol li:hover {
+  background: transparent !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3) !important;
+}
+/* 鼠标滑块 */
+.aplayer-list ol::-webkit-scrollbar-thumb {
+  background-color: rgba(24, 144, 255) !important;
+}
+/*音乐播放器折叠隐藏*/
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+  left: -66px !important;
+}
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+  left: 0 !important;
+}
