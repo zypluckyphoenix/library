@@ -1,6 +1,23 @@
 {
   "images": [
     {
+      "startdate": "20260914",
+      "fullstartdate": "202609141600",
+      "enddate": "20260915",
+      "url": "/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+      "urlbase": "/th?id=OHR.RedMacawsFlight_ZH-CN5045822113",
+      "copyright": "红绿金刚鹦鹉 (© markes51/Getty Images)",
+      "copyrightlink": "/search?q=%e7%ba%a2%e7%bb%bf%e9%87%91%e5%88%9a%e9%b9%a6%e9%b9%89&form=hpcapt&mkt=zh-cn",
+      "title": "最炫者生存",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260914_RedMacawsFlight%22&FORM=HPQUIZ",
+      "wp": true,
+      "hsh": "673b7c09cf302f410479693dfcbe45e5",
+      "drk": 1,
+      "top": 1,
+      "bot": 1,
+      "hs": []
+    },
+    {
       "startdate": "20260913",
       "fullstartdate": "202609131600",
       "enddate": "20260914",
@@ -114,23 +131,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260907_BeechEngland%22&FORM=HPQUIZ",
       "wp": true,
       "hsh": "a18e0e490a887155b8a95dc0ad42f6e6",
-      "drk": 1,
-      "top": 1,
-      "bot": 1,
-      "hs": []
-    },
-    {
-      "startdate": "20260906",
-      "fullstartdate": "202609061600",
-      "enddate": "20260907",
-      "url": "/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
-      "urlbase": "/th?id=OHR.BambergTownhall_ZH-CN1407954732",
-      "copyright": "老市政厅，班贝格，德国 (© SCStock/Getty Images)",
-      "copyrightlink": "/search?q=%e7%8f%ad%e8%b4%9d%e6%a0%bc&form=hpcapt&mkt=zh-cn",
-      "title": "历史沿运河流淌之地",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260906_BambergTownhall%22&FORM=HPQUIZ",
-      "wp": true,
-      "hsh": "e69410a15294f0c5ae7890d3892aa658",
       "drk": 1,
       "top": 1,
       "bot": 1,

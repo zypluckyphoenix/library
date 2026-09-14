@@ -1,5 +1,5 @@
 ***Bing Wallpaper***  
-**2026年09月14日 00:00:00 UTC+0800**  
-*[坚韧在此扎根,地肤田,中国(©lingqi xie/Getty Images)](https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg)*  
-![](https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg)  
-![](https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_1080x1920.jpg)
+**2026年09月15日 00:00:00 UTC+0800**  
+*[最炫者生存,红绿金刚鹦鹉(©markes51/Getty Images)](https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg)*  
+![](https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg)  
+![](https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_1080x1920.jpg)
