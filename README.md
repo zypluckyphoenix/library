@@ -1,5 +1,5 @@
 ***Bing Wallpaper***  
-**2026年09月15日 00:00:00 UTC+0800**  
-*[最炫者生存,红绿金刚鹦鹉(©markes51/Getty Images)](https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg)*  
-![](https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg)  
-![](https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_1080x1920.jpg)
+**2026年09月16日 00:00:00 UTC+0800**  
+*[北极的新晋探索者,斯瓦尔巴群岛玩耍的北极熊幼崽,挪威(©Danny Green/Nature Picture Library)](https://www.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg)*  
+![](https://www.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg)  
+![](https://www.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_1080x1920.jpg)
