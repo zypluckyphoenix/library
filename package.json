@@ -1,0 +1,33 @@
+{
+  "name": "luckyphoenix",
+  "version": "2025.4.3",
+  "description": "gather open source library which I need to use",
+  "license": "MIT",
+  "author": "zypluckyphoenix",
+  "homepage": "https://github.com/zypluckyphoenix/library#README",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zypluckyphoenix/library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zypluckyphoenix/library/issues"
+  },
+  "main": "css/alist_skin_v3.css",
+  "style": "css/alist_skin_v3.css",
+  "files": [
+    "alist-web",
+    "aplayer",
+    "css",
+    "img",
+    "js",
+    "webfonts",
+    "README.md"
+  ],
+  "keywords": [
+    "aplayer",
+    "alist-web",
+    "lxgw-wenkai",
+    "font-awesome",
+    "alist-wallpaper"
+  ]
+}
