@@ -3,4 +3,4 @@
 |-----|-----|-----|-----|-----|
 |metacubexd 面板|metacubexd.tgz|v1.273.1|<https://metacubex.github.io/metacubexd>|<https://github.com/MetaCubeX/metacubexd>|
 |yacd-meta 面板|yacd-meta.tar.gz|v0.4.0|<https://yacd.metacubex.one>|<https://github.com/MetaCubeX/yacd-meta>|
-|zashboard 面板|zashboard.tgz|v3.28.0|<https://board.zash.run.place>|<https://github.com/Zephyruso/zashboard>|
+|zashboard 面板|zashboard.tgz|v3.29.0|<https://board.zash.run.place>|<https://github.com/Zephyruso/zashboard>|
