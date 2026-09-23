@@ -1,6 +1,23 @@
 {
   "images": [
     {
+      "startdate": "20260923",
+      "fullstartdate": "202609231600",
+      "enddate": "20260924",
+      "url": "/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+      "urlbase": "/th?id=OHR.ElGolfo_ZH-CN8329995759",
+      "copyright": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)",
+      "copyrightlink": "/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%85%b0%e8%90%a8%e7%bd%97%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+      "title": "火山灰与浪花相遇",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_ElGolfo%22&FORM=HPQUIZ",
+      "wp": true,
+      "hsh": "efdc696cf07a8c8b2f32f60605f6eb68",
+      "drk": 1,
+      "top": 1,
+      "bot": 1,
+      "hs": []
+    },
+    {
       "startdate": "20260922",
       "fullstartdate": "202609221600",
       "enddate": "20260923",
@@ -114,23 +131,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260916_Santenay%22&FORM=HPQUIZ",
       "wp": true,
       "hsh": "afeed251674a914c13e0ae88bc065242",
-      "drk": 1,
-      "top": 1,
-      "bot": 1,
-      "hs": []
-    },
-    {
-      "startdate": "20260915",
-      "fullstartdate": "202609151600",
-      "enddate": "20260916",
-      "url": "/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
-      "urlbase": "/th?id=OHR.IcyCubs_ZH-CN5287408951",
-      "copyright": "斯瓦尔巴群岛玩耍的北极熊幼崽，挪威 (© Danny Green/Nature Picture Library)",
-      "copyrightlink": "/search?q=%e5%8c%97%e6%9e%81%e7%86%8a&form=hpcapt&mkt=zh-cn",
-      "title": "北极的新晋探索者",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_IcyCubs%22&FORM=HPQUIZ",
-      "wp": true,
-      "hsh": "3464e2609dc4cc5a425308f4e13b7ea0",
       "drk": 1,
       "top": 1,
       "bot": 1,
