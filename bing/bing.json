@@ -1,6 +1,23 @@
 {
   "images": [
     {
+      "startdate": "20260925",
+      "fullstartdate": "202609251600",
+      "enddate": "20260926",
+      "url": "/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+      "urlbase": "/th?id=OHR.BearsEars_ZH-CN0496897450",
+      "copyright": "熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)",
+      "copyrightlink": "/search?q=%e7%86%8a%e8%80%b3%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e5%8c%ba&form=hpcapt&mkt=zh-cn",
+      "title": "写在大地上的故事",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_BearsEars%22&FORM=HPQUIZ",
+      "wp": true,
+      "hsh": "7a4d16f38937f039b7f262834caa5b40",
+      "drk": 1,
+      "top": 1,
+      "bot": 1,
+      "hs": []
+    },
+    {
       "startdate": "20260924",
       "fullstartdate": "202609241600",
       "enddate": "20260925",
@@ -114,23 +131,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260918_AlphornBavaria%22&FORM=HPQUIZ",
       "wp": false,
       "hsh": "aa60b4eff899d1166af4abf256daaa9f",
-      "drk": 1,
-      "top": 1,
-      "bot": 1,
-      "hs": []
-    },
-    {
-      "startdate": "20260917",
-      "fullstartdate": "202609171600",
-      "enddate": "20260918",
-      "url": "/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
-      "urlbase": "/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412",
-      "copyright": "温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)",
-      "copyrightlink": "/search?q=%e5%b3%b0%e5%8c%ba%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
-      "title": "穿越山口腹地",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260917_WinnatsPassPeak%22&FORM=HPQUIZ",
-      "wp": true,
-      "hsh": "d427660ce0d0a746d4918781cdf36250",
       "drk": 1,
       "top": 1,
       "bot": 1,
