@@ -1,0 +1,52 @@
+/* @import "/css/wallpaper.css"; */
+/* 背景图片:
+  必应: https://wall.youtd.cc/bing.php; https://api.paugram.com/bing/; https://baotangguo.cn:8081/; https://api.vvhan.com/api/bing;
+  https://bing.img.run/uhd.php; https://bing.img.run/1920x1080.php; https://bing.img.run/1366x768.php; https://bing.img.run/m.php;
+  https://api.dujin.org/bing/1920.php; https://api.dujin.org/bing/m.php; https://api.dujin.org/bing/1366.php;
+  https://www.yumus.cn/api/?target=img&brand=bing&ua=uhd; https://www.yumus.cn/api/?target=img&brand=bing&ua=pc; https://www.yumus.cn/api/?target=img&brand=bing&ua=m; // https://www.yumus.cn/apidoc
+  https://api.timecdn.cn/libs/wallpaper/v1/?p=1920x1080; https://api.timecdn.cn/libs/wallpaper/v1/?p=1080x1920; https://api.timecdn.cn/libs/wallpaper/v1/?p=1366x768;
+  https://use.sevencdn.com/bing/api?day=-1&cn=true&size=1920x1080;
+  樱花: https://www.dmoe.cc
+  夏沫: https://cdn.seovx.com
+  搏天: https://api.btstu.cn/doc/sjbz.php
+  姬长信: https://github.com/insoxin/API
+  小歪: https://www.ixiaowai.cn/#works
+  保罗: https://api.paugram.com
+  墨天逸: https://api.mtyqx.cn
+  岁月小筑: https://img.xjh.me
+  东方Project: https://img.paulzzh.com
+  韩小韩WebAPI: https://api.vvhan.com/article/bing.html
+  7ED: https://www.7ed.net/get-api/bing.html
+*/
+
+/* class="hope-ui-light" */
+.hope-ui-light {
+  background-image:
+    url(https://baotangguo.cn:8081),
+    url(https://www.yumus.cn/api/?target=img&brand=bing&ua=pc),
+    url(https://api.timecdn.cn/libs/wallpaper/v1/?p=1920x1080),
+    url(https://testingcf.jsdelivr.net/gh/zypluckyphoenix/library/bing/FHD.jpg); /* url(https://bing.img.run/1920x1080.php), url(https://api.dujin.org/bing/1920.php), url(https://api.paugram.com/bing), */
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #fff !important;
+}
+
+@media screen and (max-width:960px) {
+  .hope-ui-light {
+    background-image:
+      url(https://www.yumus.cn/api/?target=img&brand=bing&ua=m),
+      url(https://api.timecdn.cn/libs/wallpaper/v1/?p=1080x1920),
+      url(https://testingcf.jsdelivr.net/gh/zypluckyphoenix/library/bing/mFHD.jpg); /* url(https://bing.img.run/m.php), url(https://api.dujin.org/bing/m.php),*/
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #fff !important;
+  }
+}
+
+.hope-ui-dark {
+  background-color: #555555 !important;
+}

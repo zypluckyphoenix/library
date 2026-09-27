@@ -1,0 +1,19 @@
+[Unit]
+Description=Aria2 Service
+After=network.service
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+UMask=007
+RestartSec=1min
+Restart=on-failure
+ExecStart=/usr/bin/aria2c --conf-path=/etc/aria2/aria2.conf
+
+[Install]
+WantedBy=multi-user.target
+
+chmod -R 770 /etc/aria2
+# chown -R www-data:root /etc/aria2
+# usermod -d /home/www-data www-data
