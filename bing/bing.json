@@ -1,6 +1,23 @@
 {
   "images": [
     {
+      "startdate": "20260930",
+      "fullstartdate": "202609301600",
+      "enddate": "20261001",
+      "url": "/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+      "urlbase": "/th?id=OHR.OlmstedPoint_ZH-CN4182671075",
+      "copyright": "奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + Motion)",
+      "copyrightlink": "/search?q=%e4%bc%98%e8%83%9c%e7%be%8e%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+      "title": "在花岗岩中读懂时间",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260930_OlmstedPoint%22&FORM=HPQUIZ",
+      "wp": true,
+      "hsh": "39d1cffb9c16d06cb14e65b0d89264d0",
+      "drk": 1,
+      "top": 1,
+      "bot": 1,
+      "hs": []
+    },
+    {
       "startdate": "20260929",
       "fullstartdate": "202609291600",
       "enddate": "20260930",
@@ -114,23 +131,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_ElGolfo%22&FORM=HPQUIZ",
       "wp": true,
       "hsh": "efdc696cf07a8c8b2f32f60605f6eb68",
-      "drk": 1,
-      "top": 1,
-      "bot": 1,
-      "hs": []
-    },
-    {
-      "startdate": "20260922",
-      "fullstartdate": "202609221600",
-      "enddate": "20260923",
-      "url": "/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
-      "urlbase": "/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091",
-      "copyright": "地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)",
-      "copyrightlink": "/search?q=%e7%a7%8b%e5%88%86&form=hpcapt&mkt=zh-cn",
-      "title": "金秋平分，地坛染黄",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_AutumnEquinoxY26%22&FORM=HPQUIZ",
-      "wp": true,
-      "hsh": "bb5605410468cf191d6cc35e69e7b06f",
       "drk": 1,
       "top": 1,
       "bot": 1,
