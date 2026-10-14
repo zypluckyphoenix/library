@@ -1,5 +1,5 @@
 ***Bing Wallpaper***  
-**2026年10月14日 00:00:00 UTC+0800**  
-*[穿越时间的螺旋,侏罗纪时期的菊石化石(©J Nemchinova/Getty Images)](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg)*  
-![](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg)  
-![](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_1080x1920.jpg)
+**2026年10月15日 00:00:00 UTC+0800**  
+*[桥梁、屋顶与暮色,弗罗茨瓦夫集市广场景观,摄自女巫桥,弗罗茨瓦夫,波兰(©Piotr Mitelski/Shutterstock)](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg)*  
+![](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg)  
+![](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_1080x1920.jpg)
