@@ -1,5 +1,5 @@
 ***Bing Wallpaper***  
-**2026年10月21日 00:00:00 UTC+0800**  
-*[飞掠河面,香江上的阮潢桥,顺化,越南(©VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg)*  
-![](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg)  
-![](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1080x1920.jpg)
+**2026年10月22日 00:00:00 UTC+0800**  
+*[静水映斑斓,内藏山国立公园的秋景,韩国(©Twenty47studio/Getty Images)](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg)*  
+![](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg)  
+![](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_1080x1920.jpg)
