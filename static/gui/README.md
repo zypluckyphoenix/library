@@ -3,6 +3,6 @@
 |-----|-----|-----|-----|
 |v2rayN|v2rayN-windows-64-desktop.zip|v7.25.6|<https://github.com/2dust/v2rayN>|
 |v2rayNG|v2rayNG_latest_arm64-v8a.apk|v2.3.11|<https://github.com/2dust/v2rayNG>|
-|ClashMetaForAndroid|cmfa-latest-meta-arm64-v8a-release.apk|v2.11.35|<https://github.com/MetaCubeX/ClashMetaForAndroid>|
+|ClashMetaForAndroid|cmfa-latest-meta-arm64-v8a-release.apk|v2.11.36|<https://github.com/MetaCubeX/ClashMetaForAndroid>|
 |sing-box-for-android|SFA-latest-arm64-v8a.apk|v1.14.3|<https://github.com/SagerNet/sing-box>|
 |NekoBoxForAndroid|NekoBox-latest-arm64-v8a.apk|v1.4.2|<https://github.com/MatsuriDayo/NekoBoxForAndroid>|
