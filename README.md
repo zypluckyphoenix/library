@@ -1,5 +1,5 @@
 ***Bing Wallpaper***  
-**2026年10月22日 00:00:00 UTC+0800**  
-*[静水映斑斓,内藏山国立公园的秋景,韩国(©Twenty47studio/Getty Images)](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg)*  
-![](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg)  
-![](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_1080x1920.jpg)
+**2026年10月23日 00:00:00 UTC+0800**  
+*[荒野伙伴,两只灰狼,黄石国家公园,怀俄明州,美国(©John Morrison/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg)*  
+![](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg)  
+![](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_1080x1920.jpg)
