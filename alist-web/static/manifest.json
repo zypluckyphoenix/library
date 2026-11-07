@@ -1,0 +1,13 @@
+{
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "AList",
+  "icons": [
+    {
+      "src": "/img/logo/phoenix.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
