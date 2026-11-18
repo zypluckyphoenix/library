@@ -1,6 +1,23 @@
 {
   "images": [
     {
+      "startdate": "20261118",
+      "fullstartdate": "202611181600",
+      "enddate": "20261119",
+      "url": "/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+      "urlbase": "/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853",
+      "copyright": "雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学 (© Todamo/Shutterstock)",
+      "copyrightlink": "/search?q=%e4%b8%96%e7%95%8c%e5%93%b2%e5%ad%a6%e6%97%a5&form=hpcapt&mkt=zh-cn",
+      "title": "思想在此成形",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261118_KnowledgeSculpture%22&FORM=HPQUIZ",
+      "wp": false,
+      "hsh": "6bf6c295d1f9662feed47a0b68e8da90",
+      "drk": 1,
+      "top": 1,
+      "bot": 1,
+      "hs": []
+    },
+    {
       "startdate": "20261117",
       "fullstartdate": "202611171600",
       "enddate": "20261118",
@@ -114,23 +131,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_NorthWindow%22&FORM=HPQUIZ",
       "wp": true,
       "hsh": "4cd78b6a40ab0d146b30dc1d5e26cd6e",
-      "drk": 1,
-      "top": 1,
-      "bot": 1,
-      "hs": []
-    },
-    {
-      "startdate": "20261110",
-      "fullstartdate": "202611101600",
-      "enddate": "20261111",
-      "url": "/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
-      "urlbase": "/th?id=OHR.Atlantica_ZH-CN6593995386",
-      "copyright": "大西洋森林，巴西 (© FG Trade/Getty Images)",
-      "copyrightlink": "/search?q=%e5%b7%b4%e8%a5%bf%e5%a4%a7%e8%a5%bf%e6%b4%8b%e6%a3%ae%e6%9e%97&form=hpcapt&mkt=zh-cn",
-      "title": "奇妙纷呈的森林",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261110_Atlantica%22&FORM=HPQUIZ",
-      "wp": true,
-      "hsh": "2f8ec1b9756e84d222b20fd5fdf412b3",
       "drk": 1,
       "top": 1,
       "bot": 1,
