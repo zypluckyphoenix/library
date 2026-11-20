@@ -1,5 +1,5 @@
 ***Bing Wallpaper***  
-**2026年11月20日 00:00:00 UTC+0800**  
-*[在峡湾中大快朵颐,正在潜水的座头鲸,挪威北部特罗姆斯的克瓦尔岛(©Espen Bergersen/Minden Pictures)](https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg)*  
-![](https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg)  
-![](https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_1080x1920.jpg)
+**2026年11月21日 00:00:00 UTC+0800**  
+*[陶瓦屋顶下的梦,法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯(©Siripong Kaewla-iad/Getty Images)](https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg)*  
+![](https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg)  
+![](https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_1080x1920.jpg)
