@@ -1,5 +1,5 @@
 ***Bing Wallpaper***  
-**2026年11月23日 00:00:00 UTC+0800**  
-*[自然中的几何之美,蕨类植物的卷曲嫩叶(©Reza Saputra/Getty Images)](https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg)*  
-![](https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg)  
-![](https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_1080x1920.jpg)
+**2026年11月24日 00:00:00 UTC+0800**  
+*[秋日的保护色,红松鼠,凯恩戈姆斯国家公园,苏格兰高地(©Scotland: The Big Picture/Minden Pictures)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg)*  
+![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg)  
+![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_1080x1920.jpg)
